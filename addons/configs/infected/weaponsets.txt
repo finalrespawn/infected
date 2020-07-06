@@ -1,0 +1,180 @@
+//"weapon_ak47", "weapon_aug", "weapon_bizon", "weapon_deagle", "weapon_decoy", "weapon_elite", "weapon_famas", "weapon_fiveseven", "weapon_flashbang",
+//"weapon_g3sg1", "weapon_galilar", "weapon_glock", "weapon_hegrenade", "weapon_hkp2000", "weapon_incgrenade", "weapon_knife", "weapon_m249", "weapon_m4a1",
+//"weapon_mac10", "weapon_mag7", "weapon_molotov", "weapon_mp7", "weapon_mp9", "weapon_negev", "weapon_nova", "weapon_p250", "weapon_p90", "weapon_sawedoff",
+//"weapon_scar20", "weapon_sg556", "weapon_smokegrenade", "weapon_ssg08", "weapon_taser", "weapon_tec9", "weapon_ump45", "weapon_xm1014", "weapon_cz75a"
+
+"Weapon Sets"
+{
+	"CT"
+	{
+		"1"
+		{
+			"primary"	"weapon_m4a1"
+			"secondary"	"weapon_hkp2000"
+		}
+		"2"
+		{
+			"primary"	"weapon_m4a1_silencer"
+			"secondary"	"weapon_usp_silencer"
+		}
+		"3"
+		{
+			"primary"	"weapon_ak47"
+			"secondary"	"weapon_glock"
+		}
+		"4"
+		{
+			"primary"	"weapon_famas"
+			"secondary"	"weapon_p250"
+		}
+		"5"
+		{
+			"primary"	"weapon_galilar"
+			"secondary"	"weapon_p250"
+		}
+		"6"
+		{
+			"primary"	"weapon_aug"
+			"secondary"	"weapon_hkp2000"
+		}
+		"7"
+		{
+			"primary"	"weapon_sg556"
+			"secondary"	"weapon_glock"
+		}
+		"8"
+		{
+			"primary"	"weapon_ssg08"
+			"secondary"	"weapon_fiveseven"
+		}
+		"9"
+		{
+			"primary"	"weapon_ssg08"
+			"secondary"	"weapon_tec9"
+		}
+		"10"
+		{
+			"primary"	"weapon_awp"
+			"secondary"	"weapon_deagle"
+		}
+		"11"
+		{
+			"primary"	"weapon_scar20"
+			"secondary"	"weapon_hkp2000"
+		}
+		"12"
+		{
+			"primary"	"weapon_g3sg1"
+			"secondary"	"weapon_glock"
+		}
+		"13"
+		{
+			"primary"	"weapon_nova"
+			"secondary"	"weapon_elite"
+		}
+		"14"
+		{
+			"primary"	"weapon_xm1014"
+			"secondary"	"weapon_cz75a"
+		}
+		"15"
+		{
+			"primary"	"weapon_mag7"
+			"secondary"	"weapon_fiveseven"
+		}
+		"16"
+		{
+			"primary"	"weapon_sawedoff"
+			"secondary"	"weapon_tec9"
+		}
+		"17"
+		{
+			"primary"	"weapon_mp9"
+			"secondary"	"weapon_fiveseven"
+		}
+		"18"
+		{
+			"primary"	"weapon_mac10"
+			"secondary"	"weapon_tec9"
+		}
+		"19"
+		{
+			"primary"	"weapon_mp7"
+			"secondary"	"weapon_elite"
+		}
+		"20"
+		{
+			"primary"	"weapon_ump45"
+			"secondary"	"weapon_cz75a"
+		}
+		"21"
+		{
+			"primary"	"weapon_p90"
+			"secondary"	"weapon_p250"
+		}
+		"22"
+		{
+			"primary"	"weapon_bizon"
+			"secondary"	"weapon_fiveseven"
+		}
+		"23"
+		{
+			"primary"	"weapon_bizon"
+			"secondary"	"weapon_tec9"
+		}
+	}
+	
+	"T"
+	{
+		"1"
+		{
+			"primary"	"weapon_m4a1"
+			"secondary"	"weapon_hkp2000"
+		}
+		"2"
+		{
+			"primary"	"weapon_m4a1_silencer"
+			"secondary"	"weapon_usp_silencer"
+		}
+		"3"
+		{
+			"primary"	"weapon_ak47"
+			"secondary"	"weapon_glock"
+		}
+		"4"
+		{
+			"primary"	"weapon_aug"
+			"secondary"	"weapon_hkp2000"
+		}
+		"5"
+		{
+			"primary"	"weapon_sg556"
+			"secondary"	"weapon_glock"
+		}
+		"6"
+		{
+			"primary"	"weapon_awp"
+			"secondary"	"weapon_deagle"
+		}
+		"7"
+		{
+			"primary"	"weapon_scar20"
+			"secondary"	"weapon_hkp2000"
+		}
+		"8"
+		{
+			"primary"	"weapon_g3sg1"
+			"secondary"	"weapon_glock"
+		}
+		"9"
+		{
+			"primary"	"weapon_m249"
+			"secondary"	"weapon_hkp2000"
+		}
+		"10"
+		{
+			"primary"	"weapon_negev"
+			"secondary"	"weapon_glock"
+		}
+	}
+}
